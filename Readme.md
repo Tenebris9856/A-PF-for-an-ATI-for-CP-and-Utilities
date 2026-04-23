@@ -7,18 +7,20 @@
  ![Обсуждения](<https://img.shields.io/github/discussions/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Обсуждения&labelColor=important>)
 
 <!-- Эмблемы — Статистика репозитория -->
- - ![Дата публикации](<https://img.shields.io/github/release-date/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Дата%20публикации>)
- - ![Количество загрузок](<https://img.shields.io/github/downloads/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities/total?logo=github&logoColor=white&logoSize=auto&label=Загрузки>)
+ - ![Дата публикации](<https://img.shields.io/github/release-date/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Дата%20публикации&labelColor=informational>)
+ - ![Количество загрузок](<https://img.shields.io/github/downloads/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities/total?logo=github&logoColor=white&logoSize=auto&label=Загрузки&labelColor=informational>)
  - ![Количество файлов формата KUM](<https://img.shields.io/github/directory-file-count/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?type=file&extension=kum&logo=github&logoColor=white&logoSize=auto&label=Количество%20файлов%20формата%20KUM&labelColor=important>)
- - ![Размер файла исходного кода проекта](<https://img.shields.io/github/size/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities/Библиотека-текстового-интерфейса.kum?branch=main&logo=github&logoColor=white&logoSize=auto&label=Размер%20файла%20исход.%20кода%20проекта&labelColor=important>)
 
 ***Репозиторий проекта** для **долговременного хранения исходного кода***.
+
+![Размер файла исходного кода проекта](<https://img.shields.io/github/size/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities/Библиотека-текстового-интерфейса.kum?branch=main&logo=github&logoColor=white&logoSize=auto&label=Размер%20файла%20исход.%20кода%20проекта&labelColor=important>)
+[![Загрузка релиза](<https://img.shields.io/badge/Скачать-KUM-red?labelColor=lime>)](<https://github.com/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities/releases/latest/download/Text-interface-library.kum> "Приступить к загрузке&hellip;")
 
 ## Описание *проекта*:
 —
 
 ![Дата создания репо](<https://img.shields.io/github/created-at/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Дата%20создания%20репо&labelColor=informational>)
-![Размер репо](<https://img.shields.io/github/repo-size/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Размер%20репо>)
+![Размер репо](<https://img.shields.io/github/repo-size/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Размер%20репо&labelColor=important>)
 - - -
 # Документация
 —

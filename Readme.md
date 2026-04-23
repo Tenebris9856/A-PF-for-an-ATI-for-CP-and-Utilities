@@ -4,7 +4,7 @@
  ![Контрибьюторы](<https://img.shields.io/github/contributors/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Контрибьюторы&labelColor=informational>)
  ![Наблюдатели](<https://img.shields.io/github/watchers/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoSize=auto&label=Наблюдатели>)
  ![Звёзды](<https://img.shields.io/github/stars/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoSize=auto&label=Звёзды>)
- ![Обсуждения](<https://img.shields.io/github/discussions/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Обсуждения>)
+ ![Обсуждения](<https://img.shields.io/github/discussions/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Обсуждения&labelColor=important>)
 
 <!-- Эмблемы — Статистика репозитория -->
  - ![Дата публикации](<https://img.shields.io/github/release-date/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Дата%20публикации>)
@@ -15,7 +15,7 @@
 ## Описание *проекта*:
 —
 
-![Дата создания репо](<https://img.shields.io/github/created-at/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Дата%20создания%20репо>)
+![Дата создания репо](<https://img.shields.io/github/created-at/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Дата%20создания%20репо&labelColor=informational>)
 ![Размер репо](<https://img.shields.io/github/repo-size/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Размер%20репо>)
 - - -
 # Документация

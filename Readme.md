@@ -1,6 +1,6 @@
 # Прототип фреймворка адаптивного текстового интерфейса *консольных программ* и *утилит*
 <!-- Эмблемы — Разное -->
- ![Фреймворк](<https://img.shields.io/badge/Фреймворк-Изергиль%20Ван%20Дер%20Вельде-black?labelColor=white> "Фреймворк") \
+ ![Фреймворк](<https://img.shields.io/badge/Фреймворк-Изергиль%20Ван%20Дер%20Вельде-black?labelColor=white> "АЯ КуМир") \
  ![Контрибьюторы](<https://img.shields.io/github/contributors/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Контрибьюторы&labelColor=informational>)
  ![Наблюдатели](<https://img.shields.io/github/watchers/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoSize=auto&label=Наблюдатели>)
  ![Звёзды](<https://img.shields.io/github/stars/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoSize=auto&label=Звёзды>)

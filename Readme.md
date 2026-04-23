@@ -9,6 +9,8 @@
 <!-- Эмблемы — Статистика репозитория -->
  - ![Дата публикации](<https://img.shields.io/github/release-date/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Дата%20публикации>)
  - ![Количество загрузок](<https://img.shields.io/github/downloads/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities/total?logo=github&logoColor=white&logoSize=auto&label=Загрузки>)
+ - ![Количество файлов формата KUM](<https://img.shields.io/github/directory-file-count/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?type=file&extension=kum&logo=github&logoColor=white&logoSize=auto&label=Количество%20файлов%20формата%20KUM&labelColor=important>)
+ - ![Размер файла исходного кода проекта](<https://img.shields.io/github/size/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities/Библиотека-текстового-интерфейса.kum?branch=main&logo=github&logoColor=white&logoSize=auto&label=Размер%20файла%20исход.%20кода%20проекта&labelColor=important>)
 
 ***Репозиторий проекта** для **долговременного хранения исходного кода***.
 

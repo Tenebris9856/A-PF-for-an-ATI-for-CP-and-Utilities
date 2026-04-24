@@ -16,7 +16,7 @@
 ![Размер файла исходного кода проекта](<https://img.shields.io/github/size/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities/Библиотека-текстового-интерфейса.kum?branch=main&logo=github&logoColor=white&logoSize=auto&label=Размер%20файла%20исход.%20кода%20проекта&labelColor=important>)
 [![Загрузка релиза](<https://img.shields.io/badge/Скачать-KUM-red?labelColor=lime>)](<https://github.com/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities/releases/latest/download/Text-interface-library.kum> "Приступить к загрузке&hellip;")
 
-## Описание *проекта*:
+## Описание *проекта*
 ***Исследовательский проект** на **предмет интереса к среде обучения школьников программированию*** — **КуМир**, *а также на **реализацию спецификации разметки строк консольных программ и утилит***.
 
 ![Дата создания репо](<https://img.shields.io/github/created-at/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Дата%20создания%20репо&labelColor=informational>)

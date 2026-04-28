@@ -2,8 +2,8 @@
 <!-- Эмблемы — Разное -->
  ![Фреймворк](<https://img.shields.io/badge/Фреймворк-Изергиль%20Ван%20Дер%20Вельде-black?labelColor=white> "АЯ КуМир") \
  ![Контрибьюторы](<https://img.shields.io/github/contributors/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Контрибьюторы&labelColor=informational>)
- ![Наблюдатели](<https://img.shields.io/github/watchers/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoSize=auto&label=Наблюдатели>)
- ![Звёзды](<https://img.shields.io/github/stars/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoSize=auto&label=Звёзды>)
+ ![Наблюдатели](<https://img.shields.io/github/watchers/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?label=Наблюдатели>)
+ ![Звёзды](<https://img.shields.io/github/stars/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?label=Звёзды>)
  ![Обсуждения](<https://img.shields.io/github/discussions/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?logo=github&logoColor=white&logoSize=auto&label=Обсуждения&labelColor=important>)
 
 <!-- Эмблемы — Статистика репозитория -->

@@ -153,4 +153,3 @@
 > ![Дата последнего внесения изменений](<https://img.shields.io/github/last-commit/Tenebris9856/A-PF-for-an-ATI-for-CP-and-Utilities?path=Readme.md&display_timestamp=committer&logo=github&logoSize=auto&label=Дата%20последнего%20внесения%20изменений>)
 - - -
 ![Правообладатель](<https://img.shields.io/badge/%C2%A9%20Copyright-Изергиль%20Ван%20Дер%20Вельде-black?style=for-the-badge&labelColor=important> "Правообладатель")
-- - -
